@@ -69,6 +69,6 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-## Outros Desafios de projetos criados no curso da DIO de HTML <br>
+## Outros Desafios de Projeto criados no curso da DIO de HTML <br>
 https://github.com/Galdino13/DP1HTML <br>
 https://github.com/Galdino13/DP3HTML<br>
